@@ -81,3 +81,9 @@ do.
 While the Open/Closed Principle was a test of how well one questions authority in the face of utter nonsense, this principle exists
 to provide the “L” needed to make the SOLID acronym work. Poor
 Wing never had a chance
+
+# What’s wrong with SOLID and Test Driven Development | Dan North - https://www.youtube.com/watch?v=_h2JF1KZQhI
+## S
+Current cost of change is low (fast compilation, testing), easy to refactor code and change file structures, easy to navigate
+Premature optimization of code structure
+When i start code, why should i have an arbitrary separation of my thinking?  (responsability is arbitrary)
